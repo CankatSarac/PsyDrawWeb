@@ -1,0 +1,12 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/pt-BR/01-first-look.png",
+    "app-store-assets/localize/generated/pt-BR/02-settings-preview.png",
+    "app-store-assets/localize/generated/tr/01-first-look.png",
+    "app-store-assets/localize/generated/tr/02-settings-preview.png",
+    "app-store-assets/localize/generated/zh-Hans/01-first-look.png",
+    "app-store-assets/localize/generated/zh-Hans/02-settings-preview.png"
+  ],
+  "notes": "Reviewed Portuguese/Turkish/Simplified Chinese pairs individually, including all final three outputs. Exterior native copy/disclosures legible, accents/dotted İ/CJK visible; only specified exterior language. Original English PsyDraw onboarding and7day source banner, blankTimeline/selectedTimeline, four-row Settings/twoOFFswitches/selectedSettings preserved. No extra features, populated gallery, diagnosis or trial-activation claim."
+}

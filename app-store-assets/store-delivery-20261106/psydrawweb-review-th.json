@@ -1,0 +1,8 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/th/01-first-look.png",
+    "app-store-assets/localize/generated/th/02-settings-preview.png"
+  ],
+  "notes": "Both Thai images individually inspected. Native headline/body/prototype English-screen footer legible with marks and safe margins. Original English PsyDraw initial onboarding/trial7days/blankTimeline and four-row Settings/twoOFFswitches/selected tabs retained, no extra language lines or added feature/results claims."
+}

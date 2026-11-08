@@ -1,0 +1,31 @@
+{
+  "sourceRepository": "C:\\Users\\Cankat\\Documents\\GitHub\\PsyDrawWeb",
+  "captureProject": "C:\\Users\\Cankat\\Documents\\GitHub\\tmp\\store-assets-run-20261106\\psydrawweb-capture-project",
+  "sourceFiles": [
+    {
+      "file": "App.tsx",
+      "sha256": "b925d28f262ec4ca75754d4407beb21e50fda531acea3c9abaf051aa39f095a9"
+    },
+    {
+      "file": "src/components/TrialCounter.tsx",
+      "sha256": "313139c31968e6839db0d8ec5f3e35402a57673e2bb6ee5dc0dd7913dbd9a101"
+    },
+    {
+      "file": "src/screens/CameraScreen.tsx",
+      "sha256": "f026539bef1813fe898fb3bc769c26142ed803601930c2273fc233545394ffd2"
+    },
+    {
+      "file": "src/screens/OnboardingScreen.tsx",
+      "sha256": "4c018e91333068599a83bd494b0d25894b5ea79511affd4d4970d23a0b6e4bd7"
+    },
+    {
+      "file": "src/screens/SettingsScreen.tsx",
+      "sha256": "e082e5ed38a9eb3a824d16f30baa2ed3fcddf6125804bcf211146587dea52e4a"
+    },
+    {
+      "file": "src/screens/TimelineScreen.tsx",
+      "sha256": "f8df9beee698c8454efb080f1e82428255a0b63ee2063ae4d79b8c6759a66965"
+    }
+  ],
+  "method": "Current primary native App.tsx and all src components copied byte-identically. Original package scripts invoke React Native0.73/React18.2; nested old Next web template is not primary. Isolated adapted Expo52/React18.3.1/RN-web0.19.13/navigation6 component preview with completed PsyDrawReact dependencies. Capture-only CameraRoll bridge returns an empty library without reading personal photos; VisionCamera bridge is blocked and never operated. Existing MaterialCommunityIcons names rendered via equivalent Expo icon family for browser font loading. No native build or original React Native functionality proof. No original repository files, dependencies, manifests or locks modified."
+}

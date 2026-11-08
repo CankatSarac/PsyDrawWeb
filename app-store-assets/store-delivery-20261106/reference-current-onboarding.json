@@ -1,0 +1,6 @@
+{
+  "uiText": "Welcome to PsyDraw\nCapture and analyze your drawings with AI-powered insights\nSmart Analysis\nGet detailed analysis of your drawings and track your progress\nPrivacy First\nYour data is secure and private. We never share your information\nNext\n7 days left in your trial\n󰥔\n󰥔\nTimeline\n󰄀\n󰄀\nCapture\n󰒓\n󰒓\nSettings",
+  "errors": [],
+  "blockedExternalRequests": [],
+  "source": "Byte-identical current native App.tsx/src components in adapted Expo52 web component runtime. CameraRoll empty-library fixture only, no personal photos read; VisionCamera disabled and never opened, MaterialCommunityIcons browser font adapter. First-launch source state, then current Next button completes onboarding immediately and Settings tab selected. Trial banner7days source default; no purchase/trial activation. No accounts, analysis, upload, camera, photo permissions, services, help/about, toggles or payments operated. Explicit prototype preview, not native functionality verification."
+}

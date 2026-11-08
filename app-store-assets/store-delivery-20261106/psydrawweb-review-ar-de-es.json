@@ -1,0 +1,11 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/ar-SA/01-first-look.png",
+    "app-store-assets/localize/generated/de-DE/01-first-look.png",
+    "app-store-assets/localize/generated/de-DE/02-settings-preview.png",
+    "app-store-assets/localize/generated/es-ES/01-first-look.png",
+    "app-store-assets/localize/generated/es-ES/02-settings-preview.png"
+  ],
+  "notes": "Individually inspected Arabic first-look plus German/Spanish pairs. The Arabic Settings master was already reviewed and reused separately. Exterior native copy/disclosures legible, RTL Arabic with LTR English app and accents retained. PsyDraw branding, complete initial onboarding/trial7days/blankTimeline and compact Settings4rows/2OFFswitches/activeSettings unchanged. No extra-language footer lines, synthetic gallery or new feature claims."
+}

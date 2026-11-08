@@ -1,0 +1,12 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/fr-FR/01-first-look.png",
+    "app-store-assets/localize/generated/fr-FR/02-settings-preview.png",
+    "app-store-assets/localize/generated/ja/01-first-look.png",
+    "app-store-assets/localize/generated/ja/02-settings-preview.png",
+    "app-store-assets/localize/generated/ko/01-first-look.png",
+    "app-store-assets/localize/generated/ko/02-settings-preview.png"
+  ],
+  "notes": "Viewed all French/Japanese/Korean outputs individually, including both French and Japanese images in shared yields. Accents including Écran and CJK copy/disclosures legible; only specified exterior language plus English UI. PsyDraw brand/complete first onboarding/trial7days/emptyTimeline and compact Settings4rows/2OFFswitches/selectedSettings retained. No invented results, extra settings or mixed footer lines."
+}

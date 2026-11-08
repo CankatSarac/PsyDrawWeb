@@ -1,0 +1,25 @@
+{
+    "unselectedEnglishDrafts":  [
+                                    {
+                                        "master":  "app-store-assets/localize/generated/en-US/01-first-look.png",
+                                        "reason":  "Mixed extra language footer lines; English corrected sibling selected."
+                                    },
+                                    {
+                                        "master":  "app-store-assets/localize/generated/en-US/02-settings-preview.png",
+                                        "reason":  "Valid Arabic exterior rather than requested English. Reused under ar-SA and English corrected sibling selected."
+                                    }
+                                ],
+    "reusedArabic":  [
+                         {
+                             "locale":  "ar-SA",
+                             "master":  "app-store-assets/localize/reused/ar-SA/02-settings-preview.png",
+                             "sha256":  "372ea302f9ace44345d49638c4afe0759f7d3023b3afa0003e671876cbe51193",
+                             "visualReview":  "passed",
+                             "source":  "Already-generated built-in English Settings request yielded valid Arabic exterior copy. Inspected complete English UI, trial7days, four correct settings rows/twoOFFswitches/Settings selected; Arabic headline/body/prototype English-screen footer readable. Reassigned to actual Arabic locale instead of regenerating valid artwork. Original prompt and receipt retained.",
+                             "originalGeneratedMaster":  "app-store-assets/localize/generated/en-US/02-settings-preview.png",
+                             "originalToolReceipt":  "C:\\Users\\Cankat\\Documents\\GitHub\\tmp\\store-assets-run-20261106\\stream-PsyDrawWeb-en-US-02-settings-preview.json"
+                         }
+                     ],
+    "originalEnglishSettingsPrompt":  "Use case: ui-mockup.\nCreate ONE tall portrait design-centric store-size PROTOTYPE preview for PsyDraw. Exact brand spelling P-s-y-D-r-a-w. Do NOT use DrawInsight or DrawingInsight: this repository has different native UI and brand. The attached reference is the actual current native-source component viewport from an isolated adapted Expo browser runtime. Place this complete unchanged viewport inside the phone, no redesign of the UI. Explicit unfinished PROTOTYPE preview, no native shipping/functionality claim.\nExterior visual direction: warm ivory paper studio with subtle pale peach #FFB88E sculptural rounded frames/card stacks, premium matte materials and soft shadows, strong warm-charcoal contemporary rounded sans-serif headline, crisp supporting typography, small PsyDraw wordmark. No invented mascot/logo. One full front-facing silver phone slightly offset right, soft peach rounded card sculpture and subtle abstract paper loop outside at left, large naturally wrapped rounded sans-serif headline above. Same restrained family, distinct arrangement. Complete phone/viewport readable and within safe margins, no camera cutout across UI, no second device or collage. All decorative paper is blank and outside phone.\nInside phone exact current screen: SETTINGS viewport: no top Settings header. Top peach rounded banner exact 7 days left in your trial. Below an inset WHITE ROUNDED CARD headed App Settings with four rows: peach bell icon Notifications with OFF gray switch; peach light/dark icon Dark Mode with OFF gray switch; peach question icon Help \u0026 Support with right gray chevron; peach info icon About with right gray chevron. Fine light gray row dividers. Large pale cream #FCEBD1 blank lower area. White bottom three-tab bar Timeline / Capture / Settings, Settings solid gear/text active peach, others gray. No Account section, credit count, Buy More, Data Sharing, Privacy Policy, Terms, API fields or extra settings; those belong to a DIFFERENT prototype. Preserve the complete captured current viewport.\nExact OUTSIDE copy in English:\nBRAND: PsyDraw\nHEADLINE: Settings, at a glance.\nBODY: Preview the prototype’s preferences.\nFOOTER: Prototype preview. Screen in English.\nMandatory legible translated prototype/English-screen disclosure at bottom, generous safe margins. Native accents/glyphs exact, preserve French Écran acute and Turkish dotted İ. Wrap long text naturally. Arabic exterior RTL with original English phone LTR. Preserve existing source UI descriptions/trial label as visual content only: no added medical/psychological/AI efficacy or privacy/security assurance, free-trial offer, pricing, ratings, actual analysis results, working camera/upload, purchase, store availability, native functionality or in-app language-support claims. No child faces, personal images or synthetic populated gallery. Requested tall1290x2796 original composition.",
+    "originalGeneratedSource":  "C:\\Users\\Cankat\\.codex\\generated_images\\01a1b1f8-7d06-7621-924b-c2f3854b0789\\exec-30cc387a-f6d4-43a0-a039-4a9f8e58edb9.png"
+}

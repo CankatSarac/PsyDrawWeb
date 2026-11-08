@@ -1,0 +1,11 @@
+{
+  "scope": "Store marketing artwork localisation only. Existing application language support is unchanged.",
+  "generation": "Built-in image_gen; one image per call; each output visually inspected before export.",
+  "newLocaleCount": 20,
+  "newImageCount": 39,
+  "reusedReviewedImageCount": 0,
+  "reusedRemoteImageCount": 0,
+  "preservedLocalImageCount": 1,
+  "uiLanguage": "Explicit PsyDraw prototype preview, English UI. Primary package React Native CLI scripts and current native App.tsx/src, not old nested Next template. Adapted isolated Expo52/React18.3/RN-web0.19/navigation6 component capture; empty CameraRoll bridge avoids reading personal photos, VisionCamera blocked/never opened, MaterialCommunityIcons browser font adapter. Source default trial7days and Next button immediately completing onboarding preserved; no trial/purchase activated. No page errors or external requests. Original7working changes/6source files preserved. No native build or original RN runtime/functionality verification, privacy/medical validity or platform availability claim.",
+  "preservation": "Existing artwork and completed language sets retained; only missing locales generated."
+}

@@ -1,0 +1,9 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/en-US/01-first-look-english-v2.png",
+    "app-store-assets/localize/generated/en-US/02-settings-preview-english-v2.png",
+    "app-store-assets/localize/reused/ar-SA/02-settings-preview.png"
+  ],
+  "notes": "Individually reviewed corrected English pair: only requested English outside, one footer, current PsyDraw first onboarding/trial7days/emptyTimeline and compact four-row Settings/twoOFFswitches/activeSettings retained. Original wrong-English Settings draft was already valid Arabic exterior; visually reviewed Arabic title/body/prototype English-screen footer and full unchanged English UI, reassigned that existing master to ar-SA instead of regenerating it. Both original English request drafts retained but excluded from English exports. Complete devices/type fit."
+}

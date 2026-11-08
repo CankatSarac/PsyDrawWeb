@@ -1,0 +1,12 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/hi/01-first-look.png",
+    "app-store-assets/localize/generated/hi/02-settings-preview.png",
+    "app-store-assets/localize/generated/it/01-first-look.png",
+    "app-store-assets/localize/generated/it/02-settings-preview.png",
+    "app-store-assets/localize/generated/ru/01-first-look.png",
+    "app-store-assets/localize/generated/ru/02-settings-preview.png"
+  ],
+  "notes": "Viewed Hindi/Italian/Russian pairs individually. Devanagari and Cyrillic glyphs, Italian apostrophe, native headline/body/disclosure legible, Russian first-look footer wraps cleanly. Original English PsyDraw first onboarding/trial7day banner/emptyTimeline and compact four-row Settings/twoOFFswitches/selected tabs retained. No added result, feature or mixed-language exterior."
+}

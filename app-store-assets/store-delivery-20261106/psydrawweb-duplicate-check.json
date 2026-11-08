@@ -1,0 +1,48 @@
+{
+  "app": "PsyDraw native prototype",
+  "repository": "PsyDrawWeb",
+  "freshPull": "main up to date at fa549de5192348ed007031b1b2aac6fec2ad9b5c",
+  "preservedOriginalChanges": 7,
+  "existingArtwork": "Ignored-inclusive audit zero localized or unassigned store artwork; target folders checked again. Other completed DrawingInsight/DrawInsight variants have materially different primary UI and brand, so not reused blindly.",
+  "capture": "Explicit PsyDraw prototype preview, English UI. Primary package React Native CLI scripts and current native App.tsx/src, not old nested Next template. Adapted isolated Expo52/React18.3/RN-web0.19/navigation6 component capture; empty CameraRoll bridge avoids reading personal photos, VisionCamera blocked/never opened, MaterialCommunityIcons browser font adapter. Source default trial7days and Next button immediately completing onboarding preserved; no trial/purchase activated. No page errors or external requests. Original7working changes/6source files preserved. No native build or original RN runtime/functionality verification, privacy/medical validity or platform availability claim.",
+  "ui": "Initial first onboarding plus7day banner/emptyTimeline; then current Next closes onboarding, Settings4row white card with2OFFswitches,7day banner and Settings tab. No invented header, credit counter or populated gallery.",
+  "sourceProof": [
+    {
+      "file": "package.json",
+      "sha256": "15045f6d4fbfc4aaeb5aad966813c0fc16fc34497ddc2265b8a8e3d36a22865e"
+    },
+    {
+      "file": "App.tsx",
+      "sha256": "b925d28f262ec4ca75754d4407beb21e50fda531acea3c9abaf051aa39f095a9"
+    },
+    {
+      "file": "metro.config.js",
+      "sha256": "30029c9ddc6551ca66b2b807ebfb043531c01ff0f435e2e6168dbed476be065b"
+    },
+    {
+      "file": "tsconfig.json",
+      "sha256": "7fac1f4c8aee283f909abc285bbb493dcf5c725960d88681550db86195494f5d"
+    },
+    {
+      "file": "src/components/TrialCounter.tsx",
+      "sha256": "313139c31968e6839db0d8ec5f3e35402a57673e2bb6ee5dc0dd7913dbd9a101"
+    },
+    {
+      "file": "src/screens/CameraScreen.tsx",
+      "sha256": "f026539bef1813fe898fb3bc769c26142ed803601930c2273fc233545394ffd2"
+    },
+    {
+      "file": "src/screens/OnboardingScreen.tsx",
+      "sha256": "4c018e91333068599a83bd494b0d25894b5ea79511affd4d4970d23a0b6e4bd7"
+    },
+    {
+      "file": "src/screens/SettingsScreen.tsx",
+      "sha256": "e082e5ed38a9eb3a824d16f30baa2ed3fcddf6125804bcf211146587dea52e4a"
+    },
+    {
+      "file": "src/screens/TimelineScreen.tsx",
+      "sha256": "f8df9beee698c8454efb080f1e82428255a0b63ee2063ae4d79b8c6759a66965"
+    }
+  ],
+  "deliverable": "20locales, two source-component prototype previews each, store-size drafts Apple1290x2796/Play1080x1920 with proportional RGB contain exports."
+}

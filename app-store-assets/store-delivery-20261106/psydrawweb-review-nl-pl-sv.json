@@ -1,0 +1,12 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/nl-NL/01-first-look.png",
+    "app-store-assets/localize/generated/nl-NL/02-settings-preview.png",
+    "app-store-assets/localize/generated/pl/01-first-look.png",
+    "app-store-assets/localize/generated/pl/02-settings-preview.png",
+    "app-store-assets/localize/generated/sv/01-first-look.png",
+    "app-store-assets/localize/generated/sv/02-settings-preview.png"
+  ],
+  "notes": "Individually viewed Dutch/Polish/Swedish pairs. Exterior headlines/body/disclosures legible without clipping, Dutch één and Swedish accents intact. Original English PsyDraw onboarding/trial7day banner/blankTimeline and compact four-row Settings/twoOFFswitches/correct selected tabs retained. Complete phone and safe footer margins, no new app state or claim."
+}

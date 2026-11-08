@@ -1,0 +1,12 @@
+{
+  "review": "passed",
+  "masters": [
+    "app-store-assets/localize/generated/da/01-first-look.png",
+    "app-store-assets/localize/generated/da/02-settings-preview.png",
+    "app-store-assets/localize/generated/fi/01-first-look.png",
+    "app-store-assets/localize/generated/fi/02-settings-preview.png",
+    "app-store-assets/localize/generated/id/01-first-look.png",
+    "app-store-assets/localize/generated/id/02-settings-preview.png"
+  ],
+  "notes": "Viewed all Danish/Finnish/Indonesian outputs individually. Native copy, accents and explicit prototype/English-screen footer fit, including long Finnish heading. Full English PsyDraw initial onboarding/trial7days/emptyTimeline and compact four-row Settings/twoOFFswitches/selected tabs remain. No mixed-language extra copy, added results or features."
+}
