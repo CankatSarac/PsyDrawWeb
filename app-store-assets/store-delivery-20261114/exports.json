@@ -1,0 +1,1025 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "batchStartedDate": "2026-11-14",
+  "locales": [
+    "en-US",
+    "tr",
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it",
+    "pt-BR",
+    "ja",
+    "ko",
+    "zh-Hans"
+  ],
+  "minimumLanguageCount": 10,
+  "operation": "Sizing and RGB JPEG encoding of explicitly reviewed imagegen masters. Original artwork retained.",
+  "storeSpecifications": {
+    "apple": "https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications/",
+    "googlePlay": "https://support.google.com/googleplay/android-developer/answer/9866151?hl=en"
+  },
+  "exports": [
+    {
+      "locale": "en-US",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "c6d2b70a2a5064dee81e7cbdc015715f3262c7f1180c3737896180574206a959",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/en-US/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "9fdaa97ba2989f106f5ccb5fe4acba9f37ed120fbcb3337b629e4c7e874e7097",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        254,
+        253,
+        253
+      ]
+    },
+    {
+      "locale": "en-US",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "c6d2b70a2a5064dee81e7cbdc015715f3262c7f1180c3737896180574206a959",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/en-US/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "99c913bf952d45492e4a65bf73c613570bdc7c6e4d57e5e9dd76d783b33eb852",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "en-US",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "e744f47fa5a05fc2e2fe12f15bd928d77a8dca10c49c30d50462a21fbdf97896",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/en-US/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "487ec3ede57320eda1eec93c7e1f200838e1becd5c1119970730e5192b8ba782",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        188,
+        194,
+        198
+      ]
+    },
+    {
+      "locale": "en-US",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "e744f47fa5a05fc2e2fe12f15bd928d77a8dca10c49c30d50462a21fbdf97896",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/en-US/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "c1eefa83f42bd7d6cf32c398ba25ee6be18e7b2e9fc28af747ca5a97b7cc5e68",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "tr",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/tr/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "c096b359a9361e04bc19c73cba5c95c09c527ad891d7c5716616e9e2d3460946",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/tr/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "3542f5430e06ac5a54d6bc878769ef848700817e29a48b3094b1b4a7cdee8dde",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "tr",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/tr/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "c096b359a9361e04bc19c73cba5c95c09c527ad891d7c5716616e9e2d3460946",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/tr-TR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "38db92987529eee2875f2e63a01578d93a241977ce05a7f6f5a74a0c88c2aff0",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "tr",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/tr/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "eb5a9d3b74cc1c0f119d2a554f89ebf1fe82e07b30622d7e965fb0bdaa27206d",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/tr/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "85a76c79cba67d6e08b702c7adb484d879629673773c766ff4b979b734376032",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        188,
+        197,
+        201
+      ]
+    },
+    {
+      "locale": "tr",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/tr/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "eb5a9d3b74cc1c0f119d2a554f89ebf1fe82e07b30622d7e965fb0bdaa27206d",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/tr-TR/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "2ee21f28cb5b233cbaf41984b07764cadb6b2b3198329f2b4ed56175f9020055",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "de-DE",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/de-DE/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "1044078aa2099c366d44c8cd8e76cdf0c2cd616bd3fd8c76c65e3fbfc2b01566",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/de-DE/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "578beb272a756cd1216ceedde296df0c6b1899b4023a1ff1887f3dc2dce1a05c",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        253,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "de-DE",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/de-DE/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "1044078aa2099c366d44c8cd8e76cdf0c2cd616bd3fd8c76c65e3fbfc2b01566",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/de-DE/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "4b90df6d472ff7666224d2228831d44f3f3b9561e6640f751ec8049d7da82850",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "de-DE",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/de-DE/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "fda1eecee589c55467d9739a6ec005711c47ca6712239fa3fda26947b98b386a",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/de-DE/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "2a79fc7ddc9a1ea0f2e992dfd9377793b13170c06c9972c21f5f645723bdc278",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        189,
+        198,
+        201
+      ]
+    },
+    {
+      "locale": "de-DE",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/de-DE/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "fda1eecee589c55467d9739a6ec005711c47ca6712239fa3fda26947b98b386a",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/de-DE/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "acc4abd81abf4867b500b052b343c4940cafafa97f64ef0d99d310fff5ed0276",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "es-ES",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/es-ES/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "25bad7039b34bff10f28141bfef0d3340f77cca9fc3883b492adc13c67828bd9",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/es-ES/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "a02f7aac56f3fabcbcb7f2d73ac7085aea7c2f01f58914126f7770a8794d75af",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "es-ES",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/es-ES/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "25bad7039b34bff10f28141bfef0d3340f77cca9fc3883b492adc13c67828bd9",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/es-ES/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "2919ffb276b4b94f3bbc7b31af83fc65fa43111b484ee296d567148b48823362",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "es-ES",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/es-ES/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "74d471621690fc43d66cf4c2cd18a98af747a48591d385f167d79adc72359405",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/es-ES/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "60149aa28d507e9c325f3793e4fc24ab299d555848bd8ea897f915e5f50dbe93",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        188,
+        192,
+        200
+      ]
+    },
+    {
+      "locale": "es-ES",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/es-ES/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "74d471621690fc43d66cf4c2cd18a98af747a48591d385f167d79adc72359405",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/es-ES/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "67bd1867bb23485f2f444486505ff2e2d299f96c294a2111073e874171e975a4",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "fr-FR",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/fr-FR/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "4d6e26bca42b4bc75745cbc66918d27791553a8e899f2bad7a692e82cc414187",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/fr-FR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "eedc0b30ddcf78772eda11c8a9c9b47cbf20df560d33974354356f72203afbf6",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "fr-FR",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/fr-FR/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "4d6e26bca42b4bc75745cbc66918d27791553a8e899f2bad7a692e82cc414187",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/fr-FR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "53dc4fef1e79b3d4ce9e5a1cdcae15b000420509a7fe6fc593adeea50d52e650",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "fr-FR",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/fr-FR/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "ef2775e8a08a8781c5d8fc9d77f645cc430728b355f4783959580d5930897ea9",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/fr-FR/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "5910188e54b2461c81146d06b5f11aea220f56e1075397a27484f01da327ce0b",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        188,
+        197,
+        204
+      ]
+    },
+    {
+      "locale": "fr-FR",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/fr-FR/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "ef2775e8a08a8781c5d8fc9d77f645cc430728b355f4783959580d5930897ea9",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/fr-FR/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "2616c97bf007a1c56156d6e69726810ab9a4b7da139a89f632b860cc72bc6dfc",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "it",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/it/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "3027ef8bb50c8b90ae28f6b464bf4a517c9f185deaac7c46887a2149239b9978",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/it/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "3aea9fa8f7f42a556c5ee4c8c216f67c40ac2775391f503cfa8b0f03bd3796a1",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "it",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/it/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "3027ef8bb50c8b90ae28f6b464bf4a517c9f185deaac7c46887a2149239b9978",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/it-IT/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "47d9668736d7c0294ff0b1153b2d96161fe188524a9e523167761a0df330d043",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "it",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/it/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "d1d7dfb02152e36232a52d81f3b8f039a1a3dd02d7b00089457b233a11316e96",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/it/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "fa05f7881a4684fa20af556c1fbf66baa767ebc603c1666bbcc2ff70ae428190",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        188,
+        194,
+        203
+      ]
+    },
+    {
+      "locale": "it",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/it/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "d1d7dfb02152e36232a52d81f3b8f039a1a3dd02d7b00089457b233a11316e96",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/it-IT/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "a7b86d7691259dca8d118b91a36f0a6073aa186fdeb10e675a596c1199e15589",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/pt-BR/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "85d0f4c08fb23443a7e245d117bbd0b711a103a4b051e25649bf5b268717cddd",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/pt-BR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "ab3310595bcf63c131f3d257118d245da535d7ff6ce93a5ca679c333e33a06be",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/pt-BR/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "85d0f4c08fb23443a7e245d117bbd0b711a103a4b051e25649bf5b268717cddd",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/pt-BR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "f16086da75ecc8a27b79109b7e17c245848c5e62241d5a2ed2b1de54d8644dc9",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/pt-BR/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "1c2a5df33c4d9dde1cde3fbb1b6561c79f8ee09fdbf700a40bc9a18592a4602d",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/pt-BR/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "0f494b31301339c7ac5ccc35eecb0262c3360a27ccad1943fd02e555afdfbb37",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        190,
+        198,
+        202
+      ]
+    },
+    {
+      "locale": "pt-BR",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/pt-BR/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "1c2a5df33c4d9dde1cde3fbb1b6561c79f8ee09fdbf700a40bc9a18592a4602d",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/pt-BR/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "588a649ee57732cc1e525fd38074c762153b735a7333892e64e0724ec70fb6f4",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "ja",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/ja/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "d5a7e52a778f386c7e8fc55f30c4c4667c1e8f1ba6aa56562d030620ac4cd351",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ja/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "f45bb9318c3c09720be741210d5eb9aa8ebbc50b8f05e781a287a0396a6e7037",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "ja",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/ja/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "d5a7e52a778f386c7e8fc55f30c4c4667c1e8f1ba6aa56562d030620ac4cd351",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ja-JP/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "1380bc9577dcc943b70ecff3f9a501014bb8a306c7c5541e119b94fe8081a5a6",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "ja",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/ja/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "d77da8b0cc103d0af104a3295eba468192d220af89cc7eaf4425a81e8b057692",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ja/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "6bada06825b2ec46b829fc89bdea264fb3633901d8521d64c31cee5aff4d1f68",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        189,
+        196,
+        205
+      ]
+    },
+    {
+      "locale": "ja",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/ja/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "d77da8b0cc103d0af104a3295eba468192d220af89cc7eaf4425a81e8b057692",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ja-JP/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "cbd7562769a6f38cb33606dd220e0f295183a490ed75bfd9846701dfcb5eefde",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "ko",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/ko/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "71eb2660904239c037bac621280162211357e8704ed6e2870b6ce8208a74ca0f",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ko/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "065ee87872ecec510530f7ce6ca9ff2b637cfa2e89231fbe2f66cd9bc500fbbe",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        253,
+        252,
+        253
+      ]
+    },
+    {
+      "locale": "ko",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/ko/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "71eb2660904239c037bac621280162211357e8704ed6e2870b6ce8208a74ca0f",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ko-KR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "59335c2ca44b37cade257a4941d9a2145e2eef42589aa7cb0568c3c8ec9fb76e",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "ko",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/ko/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "47c4d34035bf0541700519e1af5f1f23078c2c7a210b814490f28699cbec1b43",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ko/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "9459803a65864bc0e71a76c2bef3f1755d7d664f677327fc32d62bb5f0864c99",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        188,
+        196,
+        202
+      ]
+    },
+    {
+      "locale": "ko",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/ko/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "47c4d34035bf0541700519e1af5f1f23078c2c7a210b814490f28699cbec1b43",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ko-KR/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "95a1319a523e0f292d18e7c9041be9b77228cd87d449fbd54e23c0952015760c",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    },
+    {
+      "locale": "zh-Hans",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/zh-Hans/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "24907d165ca52a8a72dad00bbfc11d20f5150abd7ab9e6c4aacbfe146eb4548a",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/zh-Hans/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "055145899d158c9b06634e8532168fa50d06854e17beebe72db208202afce650",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        252,
+        252,
+        252
+      ]
+    },
+    {
+      "locale": "zh-Hans",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/zh-Hans/01-your-drawings-deserve-a-place-20261115.png",
+      "sourceSha256": "24907d165ca52a8a72dad00bbfc11d20f5150abd7ab9e6c4aacbfe146eb4548a",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/zh-CN/01-your-drawings-deserve-a-place-20261115.jpg",
+      "sha256": "c2cc078020f3e9296901f2b19aadd66a2f9a846c2fc2b300b67ec7645cd4dac1",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "locale": "zh-Hans",
+      "platform": "app-store-iphone",
+      "source": "app-store-assets/localize/generated/zh-Hans/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "938cad748d53620aec21cef608f04cb75dd8b07547e92463a10efeb1e18f1cf2",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/zh-Hans/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "00f28d08eabb49bd7b0c5b47588d8ebb9660e31f60f36390d5bfa9803ae07d62",
+      "size": [
+        1290,
+        2796
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        187,
+        191,
+        200
+      ]
+    },
+    {
+      "locale": "zh-Hans",
+      "platform": "google-play-phone",
+      "source": "app-store-assets/localize/generated/zh-Hans/02-shape-your-creative-routine-20261115.png",
+      "sourceSha256": "938cad748d53620aec21cef608f04cb75dd8b07547e92463a10efeb1e18f1cf2",
+      "sourceSize": [
+        759,
+        2072
+      ],
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/zh-CN/02-shape-your-creative-routine-20261115.jpg",
+      "sha256": "87af6a9c0285c243d4ec3d1987888b6d0785e50eb3299da76447878535029f5f",
+      "size": [
+        1080,
+        2160
+      ],
+      "mode": "RGB",
+      "format": "JPEG",
+      "quality": 97,
+      "fit": "contain",
+      "paddingColor": [
+        72,
+        32,
+        128
+      ]
+    }
+  ]
+}

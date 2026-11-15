@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-15",
+  "batchStartedDate": "2026-11-14",
+  "currentProduct": "PsyDraw",
+  "languages": 10,
+  "selectedFramesPerLocale": 2,
+  "newGeneratedImages": 20,
+  "qualifiedReusedImages": 0,
+  "retainedMasterImages": 0,
+  "designScoreApproximate": 8.4,
+  "designNotes": "All 20 localized masters and all 40 Apple/Google Play exports were visually checked. The crayon-led artwork stays legible in both store sizes; exact English prototype screens remain intact.",
+  "applicationCodeChanged": false,
+  "previewLimitations": "Source captures are adapted RN-web viewports from the current native-source components; no native RN runtime/build was run. Prototype disclosure is explicit; English UI remains unchanged. No gallery data, child imagery, camera access, AI output, mental-health result or clinical claim is shown.",
+  "visualReview": "passed",
+  "activeSelection": "Use exports.json here; all previous artwork is preserved in its original folders."
+}

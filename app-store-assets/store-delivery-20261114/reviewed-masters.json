@@ -1,0 +1,42 @@
+{
+  "en-US": [
+    "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png"
+  ],
+  "tr": [
+    "app-store-assets/localize/generated/tr/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/tr/02-shape-your-creative-routine-20261115.png"
+  ],
+  "de-DE": [
+    "app-store-assets/localize/generated/de-DE/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/de-DE/02-shape-your-creative-routine-20261115.png"
+  ],
+  "es-ES": [
+    "app-store-assets/localize/generated/es-ES/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/es-ES/02-shape-your-creative-routine-20261115.png"
+  ],
+  "fr-FR": [
+    "app-store-assets/localize/generated/fr-FR/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/fr-FR/02-shape-your-creative-routine-20261115.png"
+  ],
+  "it": [
+    "app-store-assets/localize/generated/it/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/it/02-shape-your-creative-routine-20261115.png"
+  ],
+  "pt-BR": [
+    "app-store-assets/localize/generated/pt-BR/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/pt-BR/02-shape-your-creative-routine-20261115.png"
+  ],
+  "ja": [
+    "app-store-assets/localize/generated/ja/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/ja/02-shape-your-creative-routine-20261115.png"
+  ],
+  "ko": [
+    "app-store-assets/localize/generated/ko/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/ko/02-shape-your-creative-routine-20261115.png"
+  ],
+  "zh-Hans": [
+    "app-store-assets/localize/generated/zh-Hans/01-your-drawings-deserve-a-place-20261115.png",
+    "app-store-assets/localize/generated/zh-Hans/02-shape-your-creative-routine-20261115.png"
+  ]
+}
