@@ -1,0 +1,443 @@
+{
+  "repository": "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb",
+  "jobs": [
+    {
+      "spec": {
+        "locale": "en-US",
+        "language": "English",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "Your drawings deserve a place.",
+        "body": "A look at the current PsyDraw prototype.",
+        "disclosure": "Prototype preview • Screen in English."
+      },
+      "references": [
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: ads-marketing. Make a compelling 1290x2796 portrait PsyDraw prototype store poster. Use reference 1 as the exact complete source UI screenshot within a complete phone, unchanged and legible. Current source onboarding screen. Onboarding: Welcome to PsyDraw, current subtitle, onboarding dots, Next, 7 days left in your trial, blank Timeline, bottom tabs. External art direction: white paper, lively coral ribbon and pastel lavender/sky-blue crayon loops framing a blank open sketchbook and colored pencils. Exact English headline “Your drawings deserve a place.”; supporting copy “A look at the current PsyDraw prototype.”; footer “Prototype preview • Screen in English.”. Preserve all source UI text and selections. Make the phone UI dominant, full device visible, text legible, playful and catchy. Explicit prototype framing; no filled gallery/drawing, AI result, medical/psychological outcome, children, awards, ratings, extra phone, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "en-US",
+        "language": "English",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Shape your creative routine.",
+        "body": "Explore the current PsyDraw prototype.",
+        "disclosure": "Prototype preview • Screen in English."
+      },
+      "references": [
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: ads-marketing. Make a compelling 1290x2796 portrait PsyDraw prototype store poster. Use reference 1 as the exact complete source UI screenshot within a complete phone, unchanged and legible. Current source settings screen. Settings: 7 days left in your trial, App Settings card, Notifications off, Dark Mode off, Help & Support, About and selected Settings bottom tab. External art direction: layered lilac, indigo and mint paper, colored pencil fan and hand-drawn marks; structured playful art-studio editorial. Exact English headline “Shape your creative routine.”; supporting copy “Explore the current PsyDraw prototype.”; footer “Prototype preview • Screen in English.”. Preserve all source UI text and selections. Make the phone UI dominant, full device visible, text legible, playful and catchy. Explicit prototype framing; no filled gallery/drawing, AI result, medical/psychological outcome, children, awards, ratings, extra phone, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "tr",
+        "language": "Turkish",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "Çizimlerine yer aç.",
+        "body": "PsyDraw prototipine bir bakış.",
+        "disclosure": "Prototip önizlemesi • Ekran İngilizce."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Turkish, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Çizimlerine yer aç.”, supporting line “PsyDraw prototipine bir bakış.”, and footer “Prototip önizlemesi • Ekran İngilizce.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "tr",
+        "language": "Turkish",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Yaratıcı rutinini şekillendir.",
+        "body": "Güncel PsyDraw prototipini keşfet.",
+        "disclosure": "Prototip önizlemesi • Ekran İngilizce."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Turkish, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Yaratıcı rutinini şekillendir.”, supporting line “Güncel PsyDraw prototipini keşfet.”, and footer “Prototip önizlemesi • Ekran İngilizce.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "de-DE",
+        "language": "German",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "Gib deinen Zeichnungen Raum.",
+        "body": "Ein Blick auf den aktuellen PsyDraw-Prototyp.",
+        "disclosure": "Prototyp-Vorschau • Oberfläche auf Englisch."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for German, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Gib deinen Zeichnungen Raum.”, supporting line “Ein Blick auf den aktuellen PsyDraw-Prototyp.”, and footer “Prototyp-Vorschau • Oberfläche auf Englisch.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "de-DE",
+        "language": "German",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Gestalte deine kreative Routine.",
+        "body": "Entdecke den aktuellen PsyDraw-Prototyp.",
+        "disclosure": "Prototyp-Vorschau • Oberfläche auf Englisch."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for German, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Gestalte deine kreative Routine.”, supporting line “Entdecke den aktuellen PsyDraw-Prototyp.”, and footer “Prototyp-Vorschau • Oberfläche auf Englisch.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "es-ES",
+        "language": "Spanish",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "Tus dibujos tienen su espacio.",
+        "body": "Una mirada al prototipo actual de PsyDraw.",
+        "disclosure": "Vista previa del prototipo • Pantalla en inglés."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Spanish, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Tus dibujos tienen su espacio.”, supporting line “Una mirada al prototipo actual de PsyDraw.”, and footer “Vista previa del prototipo • Pantalla en inglés.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "es-ES",
+        "language": "Spanish",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Dale forma a tu rutina creativa.",
+        "body": "Explora el prototipo actual de PsyDraw.",
+        "disclosure": "Vista previa del prototipo • Pantalla en inglés."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Spanish, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Dale forma a tu rutina creativa.”, supporting line “Explora el prototipo actual de PsyDraw.”, and footer “Vista previa del prototipo • Pantalla en inglés.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "fr-FR",
+        "language": "French",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "Tes dessins ont leur place.",
+        "body": "Un aperçu du prototype PsyDraw actuel.",
+        "disclosure": "Aperçu du prototype • Écran en anglais."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for French, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Tes dessins ont leur place.”, supporting line “Un aperçu du prototype PsyDraw actuel.”, and footer “Aperçu du prototype • Écran en anglais.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "fr-FR",
+        "language": "French",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Donne forme à ta routine créative.",
+        "body": "Explore le prototype PsyDraw actuel.",
+        "disclosure": "Aperçu du prototype • Écran en anglais."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for French, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Donne forme à ta routine créative.”, supporting line “Explore le prototype PsyDraw actuel.”, and footer “Aperçu du prototype • Écran en anglais.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "it",
+        "language": "Italian",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "I tuoi disegni hanno spazio.",
+        "body": "Uno sguardo al prototipo PsyDraw attuale.",
+        "disclosure": "Anteprima del prototipo • Schermata in inglese."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Italian, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “I tuoi disegni hanno spazio.”, supporting line “Uno sguardo al prototipo PsyDraw attuale.”, and footer “Anteprima del prototipo • Schermata in inglese.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "it",
+        "language": "Italian",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Dai forma alla tua routine creativa.",
+        "body": "Esplora il prototipo PsyDraw attuale.",
+        "disclosure": "Anteprima del prototipo • Schermata in inglese."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Italian, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Dai forma alla tua routine creativa.”, supporting line “Esplora il prototipo PsyDraw attuale.”, and footer “Anteprima del prototipo • Schermata in inglese.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "pt-BR",
+        "language": "Brazilian Portuguese",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "Seus desenhos têm espaço.",
+        "body": "Uma visão do protótipo atual do PsyDraw.",
+        "disclosure": "Prévia do protótipo • Tela em inglês."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Brazilian Portuguese, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Seus desenhos têm espaço.”, supporting line “Uma visão do protótipo atual do PsyDraw.”, and footer “Prévia do protótipo • Tela em inglês.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "pt-BR",
+        "language": "Brazilian Portuguese",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "Dê forma à sua rotina criativa.",
+        "body": "Explore o protótipo atual do PsyDraw.",
+        "disclosure": "Prévia do protótipo • Tela em inglês."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Brazilian Portuguese, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “Dê forma à sua rotina criativa.”, supporting line “Explore o protótipo atual do PsyDraw.”, and footer “Prévia do protótipo • Tela em inglês.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "ja",
+        "language": "Japanese",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "描いたものに、居場所を。",
+        "body": "現在のPsyDrawプロトタイプをご紹介。",
+        "disclosure": "プロトタイプのプレビュー・画面は英語です。"
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Japanese, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “描いたものに、居場所を。”, supporting line “現在のPsyDrawプロトタイプをご紹介。”, and footer “プロトタイプのプレビュー・画面は英語です。”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "ja",
+        "language": "Japanese",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "創作の習慣を、自分らしく。",
+        "body": "現在のPsyDrawプロトタイプを見てみましょう。",
+        "disclosure": "プロトタイプのプレビュー・画面は英語です。"
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Japanese, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “創作の習慣を、自分らしく。”, supporting line “現在のPsyDrawプロトタイプを見てみましょう。”, and footer “プロトタイプのプレビュー・画面は英語です。”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "ko",
+        "language": "Korean",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "내 그림을 위한 공간.",
+        "body": "현재 PsyDraw 프로토타입을 소개합니다.",
+        "disclosure": "프로토타입 미리보기 · 화면은 영어입니다."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Korean, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “내 그림을 위한 공간.”, supporting line “현재 PsyDraw 프로토타입을 소개합니다.”, and footer “프로토타입 미리보기 · 화면은 영어입니다.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "ko",
+        "language": "Korean",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "나만의 창작 루틴을 만들어 보세요.",
+        "body": "현재 PsyDraw 프로토타입을 살펴보세요.",
+        "disclosure": "프로토타입 미리보기 · 화면은 영어입니다."
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Korean, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “나만의 창작 루틴을 만들어 보세요.”, supporting line “현재 PsyDraw 프로토타입을 살펴보세요.”, and footer “프로토타입 미리보기 · 화면은 영어입니다.”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "zh-Hans",
+        "language": "Simplified Chinese",
+        "name": "01-your-drawings-deserve-a-place-20261115",
+        "headline": "给你的画作留一方天地。",
+        "body": "了解当前 PsyDraw 原型。",
+        "disclosure": "原型预览 · 界面为英文。"
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-onboarding.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Simplified Chinese, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “给你的画作留一方天地。”, supporting line “了解当前 PsyDraw 原型。”, and footer “原型预览 · 界面为英文。”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    },
+    {
+      "spec": {
+        "locale": "zh-Hans",
+        "language": "Simplified Chinese",
+        "name": "02-shape-your-creative-routine-20261115",
+        "headline": "打造属于你的创作日常。",
+        "body": "探索当前 PsyDraw 原型。",
+        "disclosure": "原型预览 · 界面为英文。"
+      },
+      "references": [
+        "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png",
+        "C:/Users/Cankat/Documents/GitHub/PsyDrawWeb/app-store-assets/store-delivery-20261106/reference-current-settings.png"
+      ],
+      "prompt": "Use case: text-localization. Create one localized PsyDraw store poster for Simplified Chinese, portrait 1290x2796. Reference 1 is the approved English composition for this frame. Reference 2 is the exact source UI; preserve its phone content, English UI words, device, layout and selection states accurately. Translate only exterior copy to exact headline “打造属于你的创作日常。”, supporting line “探索当前 PsyDraw 原型。”, and footer “原型预览 · 界面为英文。”. Maintain the approved playful paper-and-crayon art direction, layout, clear local typography, correct diacritics and script, ample margins, complete phone. No synthetic drawing, camera access, gallery data, AI result, psychological claim or other unverified feature. Prototype framing. No extra phone, awards, ratings, metrics, collage or watermark."
+    }
+  ],
+  "locales": [
+    {
+      "locale": "en-US",
+      "language": "English",
+      "h": [
+        "Your drawings deserve a place.",
+        "Shape your creative routine."
+      ],
+      "b": [
+        "A look at the current PsyDraw prototype.",
+        "Explore the current PsyDraw prototype."
+      ],
+      "d": "Prototype preview • Screen in English."
+    },
+    {
+      "locale": "tr",
+      "language": "Turkish",
+      "h": [
+        "Çizimlerine yer aç.",
+        "Yaratıcı rutinini şekillendir."
+      ],
+      "b": [
+        "PsyDraw prototipine bir bakış.",
+        "Güncel PsyDraw prototipini keşfet."
+      ],
+      "d": "Prototip önizlemesi • Ekran İngilizce."
+    },
+    {
+      "locale": "de-DE",
+      "language": "German",
+      "h": [
+        "Gib deinen Zeichnungen Raum.",
+        "Gestalte deine kreative Routine."
+      ],
+      "b": [
+        "Ein Blick auf den aktuellen PsyDraw-Prototyp.",
+        "Entdecke den aktuellen PsyDraw-Prototyp."
+      ],
+      "d": "Prototyp-Vorschau • Oberfläche auf Englisch."
+    },
+    {
+      "locale": "es-ES",
+      "language": "Spanish",
+      "h": [
+        "Tus dibujos tienen su espacio.",
+        "Dale forma a tu rutina creativa."
+      ],
+      "b": [
+        "Una mirada al prototipo actual de PsyDraw.",
+        "Explora el prototipo actual de PsyDraw."
+      ],
+      "d": "Vista previa del prototipo • Pantalla en inglés."
+    },
+    {
+      "locale": "fr-FR",
+      "language": "French",
+      "h": [
+        "Tes dessins ont leur place.",
+        "Donne forme à ta routine créative."
+      ],
+      "b": [
+        "Un aperçu du prototype PsyDraw actuel.",
+        "Explore le prototype PsyDraw actuel."
+      ],
+      "d": "Aperçu du prototype • Écran en anglais."
+    },
+    {
+      "locale": "it",
+      "language": "Italian",
+      "h": [
+        "I tuoi disegni hanno spazio.",
+        "Dai forma alla tua routine creativa."
+      ],
+      "b": [
+        "Uno sguardo al prototipo PsyDraw attuale.",
+        "Esplora il prototipo PsyDraw attuale."
+      ],
+      "d": "Anteprima del prototipo • Schermata in inglese."
+    },
+    {
+      "locale": "pt-BR",
+      "language": "Brazilian Portuguese",
+      "h": [
+        "Seus desenhos têm espaço.",
+        "Dê forma à sua rotina criativa."
+      ],
+      "b": [
+        "Uma visão do protótipo atual do PsyDraw.",
+        "Explore o protótipo atual do PsyDraw."
+      ],
+      "d": "Prévia do protótipo • Tela em inglês."
+    },
+    {
+      "locale": "ja",
+      "language": "Japanese",
+      "h": [
+        "描いたものに、居場所を。",
+        "創作の習慣を、自分らしく。"
+      ],
+      "b": [
+        "現在のPsyDrawプロトタイプをご紹介。",
+        "現在のPsyDrawプロトタイプを見てみましょう。"
+      ],
+      "d": "プロトタイプのプレビュー・画面は英語です。"
+    },
+    {
+      "locale": "ko",
+      "language": "Korean",
+      "h": [
+        "내 그림을 위한 공간.",
+        "나만의 창작 루틴을 만들어 보세요."
+      ],
+      "b": [
+        "현재 PsyDraw 프로토타입을 소개합니다.",
+        "현재 PsyDraw 프로토타입을 살펴보세요."
+      ],
+      "d": "프로토타입 미리보기 · 화면은 영어입니다."
+    },
+    {
+      "locale": "zh-Hans",
+      "language": "Simplified Chinese",
+      "h": [
+        "给你的画作留一方天地。",
+        "打造属于你的创作日常。"
+      ],
+      "b": [
+        "了解当前 PsyDraw 原型。",
+        "探索当前 PsyDraw 原型。"
+      ],
+      "d": "原型预览 · 界面为英文。"
+    }
+  ],
+  "names": [
+    "01-your-drawings-deserve-a-place-20261115",
+    "02-shape-your-creative-routine-20261115"
+  ],
+  "approved": [
+    "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-522324ad-0420-475b-9e7f-2a990b9cfe18.png",
+    "C:/Users/Cankat/.codex/generated_images/01a1ca08-5659-7bb0-bb99-d5072f677cf4/exec-6b64df1c-3008-4d98-bcdf-41c703472180.png"
+  ]
+}

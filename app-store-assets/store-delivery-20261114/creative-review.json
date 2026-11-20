@@ -1,0 +1,859 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "repository": "PsyDrawWeb",
+  "decision": "Replace the sparse generic welcome/settings ads with a playful paper-and-crayon prototype campaign using the exact current onboarding and settings screens.",
+  "minimumIndividualCreativeScoreApproximate": 8.4,
+  "scoreMeaning": "Subjective visual judgment of clarity, personality and catchiness; not conversion evidence or language certification.",
+  "observation": "All 20 localized masters and all 40 Apple/Google Play exports were visually checked. The crayon-led artwork stays legible in both store sizes; exact English prototype screens remain intact.",
+  "reference": [
+    "User supplied G1cGt5sacAAegLg.jpeg collage",
+    "https://x.com/screenshotfirst"
+  ],
+  "publishedAssetCommitReviewed": "2a5942dba0528e251d54e9fd1ca06cdcc6fb6093",
+  "manifest": "app-store-assets/store-delivery-20261114/exports.json",
+  "manifestSha256": "f2310d8c4c95cba1cfd195f0fe544f0a373028aab7e1d2b9188939052f371a27",
+  "languageCount": 10,
+  "locales": [
+    "en-US",
+    "tr",
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "it",
+    "pt-BR",
+    "ja",
+    "ko",
+    "zh-Hans"
+  ],
+  "verifiedManifestExports": 40,
+  "verifiedSelectedStoreFiles": 40,
+  "visualReview": {
+    "masters": "All selected compositions in labeled all-locale contact grids, with larger locale/source inspection for uncertain text or layouts.",
+    "formats": 8.5,
+    "limitations": "Contact-grid inspection assesses visible layout, hierarchy and consistency. It does not certify every translated word, native runtime, store submission, or medical/financial claims."
+  },
+  "qualityCriteria": [
+    "Readable prominent product UI",
+    "Clear benefit hierarchy",
+    "Product-specific character and materials",
+    "Localized headings fit without visible collisions",
+    "Both store aspect ratios preserve the full artwork"
+  ],
+  "englishFrameScores": [
+    {
+      "file": "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.5,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    }
+  ],
+  "reviewedMasterReferences": {
+    "en-US": [
+      "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png"
+    ],
+    "tr": [
+      "app-store-assets/localize/generated/tr/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/tr/02-shape-your-creative-routine-20261115.png"
+    ],
+    "de-DE": [
+      "app-store-assets/localize/generated/de-DE/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/de-DE/02-shape-your-creative-routine-20261115.png"
+    ],
+    "es-ES": [
+      "app-store-assets/localize/generated/es-ES/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/es-ES/02-shape-your-creative-routine-20261115.png"
+    ],
+    "fr-FR": [
+      "app-store-assets/localize/generated/fr-FR/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/fr-FR/02-shape-your-creative-routine-20261115.png"
+    ],
+    "it": [
+      "app-store-assets/localize/generated/it/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/it/02-shape-your-creative-routine-20261115.png"
+    ],
+    "pt-BR": [
+      "app-store-assets/localize/generated/pt-BR/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/pt-BR/02-shape-your-creative-routine-20261115.png"
+    ],
+    "ja": [
+      "app-store-assets/localize/generated/ja/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/ja/02-shape-your-creative-routine-20261115.png"
+    ],
+    "ko": [
+      "app-store-assets/localize/generated/ko/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/ko/02-shape-your-creative-routine-20261115.png"
+    ],
+    "zh-Hans": [
+      "app-store-assets/localize/generated/zh-Hans/01-your-drawings-deserve-a-place-20261115.png",
+      "app-store-assets/localize/generated/zh-Hans/02-shape-your-creative-routine-20261115.png"
+    ]
+  },
+  "verifiedFiles": {
+    "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "c6d2b70a2a5064dee81e7cbdc015715f3262c7f1180c3737896180574206a959",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/en-US/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "9fdaa97ba2989f106f5ccb5fe4acba9f37ed120fbcb3337b629e4c7e874e7097",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/en-US/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "99c913bf952d45492e4a65bf73c613570bdc7c6e4d57e5e9dd76d783b33eb852",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "e744f47fa5a05fc2e2fe12f15bd928d77a8dca10c49c30d50462a21fbdf97896",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/en-US/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "487ec3ede57320eda1eec93c7e1f200838e1becd5c1119970730e5192b8ba782",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/en-US/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "c1eefa83f42bd7d6cf32c398ba25ee6be18e7b2e9fc28af747ca5a97b7cc5e68",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/tr/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "c096b359a9361e04bc19c73cba5c95c09c527ad891d7c5716616e9e2d3460946",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/tr/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "3542f5430e06ac5a54d6bc878769ef848700817e29a48b3094b1b4a7cdee8dde",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/tr-TR/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "38db92987529eee2875f2e63a01578d93a241977ce05a7f6f5a74a0c88c2aff0",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/tr/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "eb5a9d3b74cc1c0f119d2a554f89ebf1fe82e07b30622d7e965fb0bdaa27206d",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/tr/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "85a76c79cba67d6e08b702c7adb484d879629673773c766ff4b979b734376032",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/tr-TR/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "2ee21f28cb5b233cbaf41984b07764cadb6b2b3198329f2b4ed56175f9020055",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/de-DE/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "1044078aa2099c366d44c8cd8e76cdf0c2cd616bd3fd8c76c65e3fbfc2b01566",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/de-DE/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "578beb272a756cd1216ceedde296df0c6b1899b4023a1ff1887f3dc2dce1a05c",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/de-DE/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "4b90df6d472ff7666224d2228831d44f3f3b9561e6640f751ec8049d7da82850",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/de-DE/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "fda1eecee589c55467d9739a6ec005711c47ca6712239fa3fda26947b98b386a",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/de-DE/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "2a79fc7ddc9a1ea0f2e992dfd9377793b13170c06c9972c21f5f645723bdc278",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/de-DE/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "acc4abd81abf4867b500b052b343c4940cafafa97f64ef0d99d310fff5ed0276",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/es-ES/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "25bad7039b34bff10f28141bfef0d3340f77cca9fc3883b492adc13c67828bd9",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/es-ES/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "a02f7aac56f3fabcbcb7f2d73ac7085aea7c2f01f58914126f7770a8794d75af",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/es-ES/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "2919ffb276b4b94f3bbc7b31af83fc65fa43111b484ee296d567148b48823362",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/es-ES/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "74d471621690fc43d66cf4c2cd18a98af747a48591d385f167d79adc72359405",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/es-ES/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "60149aa28d507e9c325f3793e4fc24ab299d555848bd8ea897f915e5f50dbe93",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/es-ES/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "67bd1867bb23485f2f444486505ff2e2d299f96c294a2111073e874171e975a4",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/fr-FR/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "4d6e26bca42b4bc75745cbc66918d27791553a8e899f2bad7a692e82cc414187",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/fr-FR/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "eedc0b30ddcf78772eda11c8a9c9b47cbf20df560d33974354356f72203afbf6",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/fr-FR/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "53dc4fef1e79b3d4ce9e5a1cdcae15b000420509a7fe6fc593adeea50d52e650",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/fr-FR/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "ef2775e8a08a8781c5d8fc9d77f645cc430728b355f4783959580d5930897ea9",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/fr-FR/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "5910188e54b2461c81146d06b5f11aea220f56e1075397a27484f01da327ce0b",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/fr-FR/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "2616c97bf007a1c56156d6e69726810ab9a4b7da139a89f632b860cc72bc6dfc",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/it/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "3027ef8bb50c8b90ae28f6b464bf4a517c9f185deaac7c46887a2149239b9978",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/it/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "3aea9fa8f7f42a556c5ee4c8c216f67c40ac2775391f503cfa8b0f03bd3796a1",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/it-IT/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "47d9668736d7c0294ff0b1153b2d96161fe188524a9e523167761a0df330d043",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/it/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "d1d7dfb02152e36232a52d81f3b8f039a1a3dd02d7b00089457b233a11316e96",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/it/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "fa05f7881a4684fa20af556c1fbf66baa767ebc603c1666bbcc2ff70ae428190",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/it-IT/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "a7b86d7691259dca8d118b91a36f0a6073aa186fdeb10e675a596c1199e15589",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/pt-BR/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "85d0f4c08fb23443a7e245d117bbd0b711a103a4b051e25649bf5b268717cddd",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/pt-BR/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "ab3310595bcf63c131f3d257118d245da535d7ff6ce93a5ca679c333e33a06be",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/pt-BR/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "f16086da75ecc8a27b79109b7e17c245848c5e62241d5a2ed2b1de54d8644dc9",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/pt-BR/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "1c2a5df33c4d9dde1cde3fbb1b6561c79f8ee09fdbf700a40bc9a18592a4602d",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/pt-BR/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "0f494b31301339c7ac5ccc35eecb0262c3360a27ccad1943fd02e555afdfbb37",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/pt-BR/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "588a649ee57732cc1e525fd38074c762153b735a7333892e64e0724ec70fb6f4",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/ja/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "d5a7e52a778f386c7e8fc55f30c4c4667c1e8f1ba6aa56562d030620ac4cd351",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/ja/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "f45bb9318c3c09720be741210d5eb9aa8ebbc50b8f05e781a287a0396a6e7037",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/ja-JP/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "1380bc9577dcc943b70ecff3f9a501014bb8a306c7c5541e119b94fe8081a5a6",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/ja/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "d77da8b0cc103d0af104a3295eba468192d220af89cc7eaf4425a81e8b057692",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/ja/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "6bada06825b2ec46b829fc89bdea264fb3633901d8521d64c31cee5aff4d1f68",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/ja-JP/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "cbd7562769a6f38cb33606dd220e0f295183a490ed75bfd9846701dfcb5eefde",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/ko/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "71eb2660904239c037bac621280162211357e8704ed6e2870b6ce8208a74ca0f",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/ko/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "065ee87872ecec510530f7ce6ca9ff2b637cfa2e89231fbe2f66cd9bc500fbbe",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/ko-KR/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "59335c2ca44b37cade257a4941d9a2145e2eef42589aa7cb0568c3c8ec9fb76e",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/ko/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "47c4d34035bf0541700519e1af5f1f23078c2c7a210b814490f28699cbec1b43",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/ko/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "9459803a65864bc0e71a76c2bef3f1755d7d664f677327fc32d62bb5f0864c99",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/ko-KR/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "95a1319a523e0f292d18e7c9041be9b77228cd87d449fbd54e23c0952015760c",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/zh-Hans/01-your-drawings-deserve-a-place-20261115.png": {
+      "sha256": "24907d165ca52a8a72dad00bbfc11d20f5150abd7ab9e6c4aacbfe146eb4548a",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/zh-Hans/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "055145899d158c9b06634e8532168fa50d06854e17beebe72db208202afce650",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/zh-CN/01-your-drawings-deserve-a-place-20261115.jpg": {
+      "sha256": "c2cc078020f3e9296901f2b19aadd66a2f9a846c2fc2b300b67ec7645cd4dac1",
+      "newTaskAsset": true
+    },
+    "app-store-assets/localize/generated/zh-Hans/02-shape-your-creative-routine-20261115.png": {
+      "sha256": "938cad748d53620aec21cef608f04cb75dd8b07547e92463a10efeb1e18f1cf2",
+      "newTaskAsset": true
+    },
+    "app-store-assets/screenshots-ready/catchiness-20261114/zh-Hans/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "00f28d08eabb49bd7b0c5b47588d8ebb9660e31f60f36390d5bfa9803ae07d62",
+      "newTaskAsset": true
+    },
+    "play-store-assets/screenshots-ready/catchiness-20261114/zh-CN/02-shape-your-creative-routine-20261115.jpg": {
+      "sha256": "87af6a9c0285c243d4ec3d1987888b6d0785e50eb3299da76447878535029f5f",
+      "newTaskAsset": true
+    }
+  },
+  "storeFiles": [
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/en-US/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "en-US",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/en-US/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "en-US",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/en-US/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "en-US",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/en-US/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "en-US",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/tr/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "tr",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/tr-TR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "tr",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/tr/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "tr",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/tr-TR/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "tr",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/de-DE/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "de-DE",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/de-DE/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "de-DE",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/de-DE/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "de-DE",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/de-DE/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "de-DE",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/es-ES/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "es-ES",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/es-ES/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "es-ES",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/es-ES/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "es-ES",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/es-ES/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "es-ES",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/fr-FR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "fr-FR",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/fr-FR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "fr-FR",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/fr-FR/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "fr-FR",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/fr-FR/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "fr-FR",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/it/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "it",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/it-IT/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "it",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/it/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "it",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/it-IT/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "it",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/pt-BR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "pt-BR",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/pt-BR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "pt-BR",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/pt-BR/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "pt-BR",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/pt-BR/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "pt-BR",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ja/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "ja",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ja-JP/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "ja",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ja/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "ja",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ja-JP/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "ja",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ko/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "ko",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ko-KR/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "ko",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/ko/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "ko",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/ko-KR/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "ko",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/zh-Hans/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "zh-Hans",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/zh-CN/01-your-drawings-deserve-a-place-20261115.jpg",
+      "locale": "zh-Hans",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    },
+    {
+      "file": "app-store-assets/screenshots-ready/catchiness-20261114/zh-Hans/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "zh-Hans",
+      "platform": "app-store-iphone",
+      "size": [
+        1290,
+        2796
+      ]
+    },
+    {
+      "file": "play-store-assets/screenshots-ready/catchiness-20261114/zh-CN/02-shape-your-creative-routine-20261115.jpg",
+      "locale": "zh-Hans",
+      "platform": "google-play-phone",
+      "size": [
+        1080,
+        2160
+      ]
+    }
+  ],
+  "reviewSheetSha256": {
+    "all-locales.jpg": "eeb20b6ac544664c243f56272018564396b376e8e479bba947f0a6711f14fc6a",
+    "store-formats.jpg": "e18f400d545cb738fa52f0194b06a315a996f730665bf743577ffb0a1737e76d"
+  },
+  "artworkChanges": "Twenty new localized poster masters across ten languages. Prior twenty-language art remains preserved.",
+  "applicationSourceChanged": false,
+  "batchStartedDate": "2026-11-14",
+  "previousManifest": "app-store-assets/store-delivery-20261106/exports.json",
+  "newGeneratedImages": 20,
+  "qualifiedReusedImages": 0,
+  "retainedMasterImages": 0,
+  "sourceFidelity": "Source captures are adapted RN-web viewports from the current native-source components; no native RN runtime/build was run. Prototype disclosure is explicit; English UI remains unchanged. No gallery data, child imagery, camera access, AI output, mental-health result or clinical claim is shown.",
+  "newFrameScores": [
+    {
+      "file": "app-store-assets/localize/generated/en-US/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/en-US/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/tr/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/tr/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/de-DE/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/de-DE/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/es-ES/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/es-ES/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/fr-FR/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/fr-FR/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/it/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/it/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/pt-BR/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/pt-BR/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/ja/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/ja/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/ko/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/ko/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/zh-Hans/01-your-drawings-deserve-a-place-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    },
+    {
+      "file": "app-store-assets/localize/generated/zh-Hans/02-shape-your-creative-routine-20261115.png",
+      "score": 8.4,
+      "decision": "redesigned-and-retained"
+    }
+  ],
+  "excludedFromActiveSelection": [
+    "app-store-assets/localize/generated/ar-SA/01-first-look.png",
+    "app-store-assets/localize/reused/ar-SA/02-settings-preview.png",
+    "app-store-assets/localize/generated/da/01-first-look.png",
+    "app-store-assets/localize/generated/da/02-settings-preview.png",
+    "app-store-assets/localize/generated/de-DE/01-first-look.png",
+    "app-store-assets/localize/generated/de-DE/02-settings-preview.png",
+    "app-store-assets/localize/generated/en-US/01-first-look-english-v2.png",
+    "app-store-assets/localize/generated/en-US/02-settings-preview-english-v2.png",
+    "app-store-assets/localize/generated/es-ES/01-first-look.png",
+    "app-store-assets/localize/generated/es-ES/02-settings-preview.png",
+    "app-store-assets/localize/generated/fi/01-first-look.png",
+    "app-store-assets/localize/generated/fi/02-settings-preview.png",
+    "app-store-assets/localize/generated/fr-FR/01-first-look.png",
+    "app-store-assets/localize/generated/fr-FR/02-settings-preview.png",
+    "app-store-assets/localize/generated/hi/01-first-look.png",
+    "app-store-assets/localize/generated/hi/02-settings-preview.png",
+    "app-store-assets/localize/generated/id/01-first-look.png",
+    "app-store-assets/localize/generated/id/02-settings-preview.png",
+    "app-store-assets/localize/generated/it/01-first-look.png",
+    "app-store-assets/localize/generated/it/02-settings-preview.png",
+    "app-store-assets/localize/generated/ja/01-first-look.png",
+    "app-store-assets/localize/generated/ja/02-settings-preview.png",
+    "app-store-assets/localize/generated/ko/01-first-look.png",
+    "app-store-assets/localize/generated/ko/02-settings-preview.png",
+    "app-store-assets/localize/generated/nl-NL/01-first-look.png",
+    "app-store-assets/localize/generated/nl-NL/02-settings-preview.png",
+    "app-store-assets/localize/generated/pl/01-first-look.png",
+    "app-store-assets/localize/generated/pl/02-settings-preview.png",
+    "app-store-assets/localize/generated/pt-BR/01-first-look.png",
+    "app-store-assets/localize/generated/pt-BR/02-settings-preview.png",
+    "app-store-assets/localize/generated/ru/01-first-look.png",
+    "app-store-assets/localize/generated/ru/02-settings-preview.png",
+    "app-store-assets/localize/generated/sv/01-first-look.png",
+    "app-store-assets/localize/generated/sv/02-settings-preview.png",
+    "app-store-assets/localize/generated/th/01-first-look.png",
+    "app-store-assets/localize/generated/th/02-settings-preview.png",
+    "app-store-assets/localize/generated/tr/01-first-look.png",
+    "app-store-assets/localize/generated/tr/02-settings-preview.png",
+    "app-store-assets/localize/generated/zh-Hans/01-first-look.png",
+    "app-store-assets/localize/generated/zh-Hans/02-settings-preview.png"
+  ],
+  "generationInputProof": {},
+  "supportingAssetSha256": {}
+}
